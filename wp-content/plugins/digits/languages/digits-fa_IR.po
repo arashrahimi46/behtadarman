@@ -1,0 +1,1848 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Project-Id-Version: DIGITS: Wordpress Mobile Number Signup and Login\n"
+"POT-Creation-Date: 2018-10-24 19:15+0530\n"
+"PO-Revision-Date: 2019-10-23 10:41+0330\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: digit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: digit.php:155
+msgid "+ Add User"
+msgstr "افزودن کاربر"
+
+#: digit.php:159
+msgid "Add new user"
+msgstr "افزودن کاربر جدید"
+
+#: digit.php:234
+msgid "Create New Customer"
+msgstr "ایجاد مشتری جدید"
+
+#: digit.php:243 digit.php:257
+msgid "Create Customer"
+msgstr "ایجاد مشتری"
+
+#: digit.php:248 includes/register.php:105
+#: includes/woocommerce-registration.php:980
+msgid "First Name"
+msgstr "نام"
+
+#: digit.php:251 includes/register.php:106
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: digit.php:254 digit.php:916 digit.php:1027 digit.php:1105 digit.php:1212
+#: digit.php:3795 digit.php:4442 digit.php:5140 digit.php:5257 digit.php:5344
+#: digit.php:5452 includes/woocommerce-registration.php:255
+#: includes/woocommerce-registration.php:256
+#: includes/woocommerce-registration.php:1058
+msgid "Email/Mobile Number"
+msgstr "ایمیل/شماره موبایل"
+
+#: digit.php:256 digit.php:5534
+msgid "Cancel"
+msgstr "انصراف"
+
+#: digit.php:273
+msgid "Enter all fields!"
+msgstr "تمام موارد خوسته شده را وارد کنید!"
+
+#: digit.php:274
+msgid "Invalid Email or mobile number!"
+msgstr "ایمیل/شماره موبایل نامعتبر است!"
+
+#: digit.php:275 digit.php:351 digit.php:3868 digit.php:3923 digit.php:4363
+#: digit.php:4369 digit.php:4597 digit.php:4671 digit.php:5637
+#: includes/bp.php:294 includes/ihu.php:305 includes/ihu.php:884
+#: includes/login.php:995 includes/register.php:213
+#: includes/woocommerce-registration.php:169
+#: includes/woocommerce-registration.php:173
+#: includes/woocommerce-registration.php:187
+#: includes/woocommerce-registration.php:206
+#: includes/woocommerce-registration.php:208
+#: includes/woocommerce-registration.php:1203
+msgid "Error"
+msgstr "خطا"
+
+#: digit.php:276
+msgid "Email/Mobile number has already registered"
+msgstr "ایمیل / شماره تلفن قبلا ثبت شده است"
+
+#: digit.php:277
+msgid "User registered successfully"
+msgstr "عضویت کاربر تکمیل شد"
+
+#: digit.php:323 digit.php:3812 digit.php:3895 digit.php:4327 digit.php:4351
+#: digit.php:5610
+msgid "Passwords do not match!"
+msgstr "رمز عبورها همسان نیستند!"
+
+#: digit.php:324 digit.php:3813 digit.php:3896 digit.php:5611
+msgid "Please fill all the required details."
+msgstr "لطفا تمام اطلاعات مورد نیاز را پر کنید."
+
+#: digit.php:325 digit.php:3814 digit.php:3897 digit.php:5612
+msgid "Please accept terms & conditions."
+msgstr "لطفا شرایط و قوانین را بپذیرید."
+
+#: digit.php:327 digit.php:3816 digit.php:3899 digit.php:5614
+msgid "Please enter a stronger password."
+msgstr "لطفا رمزعبور سخت تری وارد کنید."
+
+#: digit.php:342 digit.php:3871 digit.php:3914 digit.php:5628
+msgid "Registration is disabled"
+msgstr "ثبت نام غیرفعال است"
+
+#: digit.php:343 digit.php:3872 digit.php:3915 digit.php:5629
+msgid "Forgot Password is disabled"
+msgstr "فراموشی رمزعبور غیرفعال است"
+
+#: digit.php:344 digit.php:3837 digit.php:3916 digit.php:5630
+msgid "Invalid login credentials!"
+msgstr "ورود نامعتبر است!"
+
+#: digit.php:345 digit.php:3836 digit.php:3917 digit.php:4608 digit.php:5631
+#: includes/bp.php:235 includes/register.php:528
+msgid "Invalid API credentials!"
+msgstr "اعتبار نامعتبر API!"
+
+#: digit.php:346 digit.php:3835 digit.php:3918 digit.php:5632
+msgid "Please signup before logging in."
+msgstr "لطفا قبل از ورود، ثبت نام کنید."
+
+#: digit.php:347 digit.php:3919 digit.php:5633
+msgid "Please try again!"
+msgstr "لطفا مجدد تلاش کنید!"
+
+#: digit.php:348 digit.php:3844 digit.php:3920 digit.php:5634
+#: includes/woocommerce-registration.php:365
+#: includes/woocommerce-registration.php:371
+msgid "Invalid Country Code!"
+msgstr "کد کشور نامعتبر است!"
+
+#: digit.php:349 digit.php:3845 digit.php:3921 digit.php:5635
+msgid "Mobile number not found!"
+msgstr "شماره موبایل پیدا نشد!"
+
+#: digit.php:350 digit.php:3846 digit.php:3922 digit.php:4647 digit.php:4649
+#: digit.php:5636 includes/woocommerce-registration.php:206
+#: includes/woocommerce-registration.php:208
+#: includes/woocommerce-registration.php:389
+#: includes/woocommerce-registration.php:661
+msgid "Mobile Number already in use!"
+msgstr "اینشماره در حال حاضر در حال استفاده است! (قبلا ثبت نام کرده ست)"
+
+#: digit.php:352 digit.php:3924 digit.php:5638
+msgid "This features only works with mobile number"
+msgstr "این ویژگی فقط با شماره تلفن موبایل کار می کند"
+
+#: digit.php:353 digit.php:3848 digit.php:3925 digit.php:5639
+#: includes/woocommerce-registration.php:381
+#: includes/woocommerce-registration.php:680
+msgid "Invalid OTP!"
+msgstr "کد تایید نامعبر است!"
+
+#: digit.php:354 digit.php:3563 digit.php:3850 digit.php:3926 digit.php:5640
+#: digit.php:7025
+msgid "Error! Please try again later"
+msgstr "خطا! لطفا مجدد تلاش کنید"
+
+#: digit.php:355 digit.php:3927 digit.php:5641
+msgid "Password does not match the confirm password!"
+msgstr "رمز عبور یکسان نیست!"
+
+#: digit.php:356 digit.php:3840 digit.php:3928 digit.php:5642
+msgid "Invalid details!"
+msgstr "جزئیات نامعتبر!"
+
+#: digit.php:357 digit.php:3843 digit.php:3929 digit.php:4527 digit.php:5643
+#: includes/bp.php:71 includes/register.php:433
+msgid "Invalid Email!"
+msgstr "ایمیل نامعتبر!"
+
+#: digit.php:358 digit.php:3842 digit.php:3930 digit.php:5644
+#: includes/woocommerce-registration.php:169
+#: includes/woocommerce-registration.php:173
+#: includes/woocommerce-registration.php:368
+msgid "Invalid Mobile Number!"
+msgstr "شماره موبایل نامعتبر!"
+
+#: digit.php:359 digit.php:3931 digit.php:5645
+msgid "Either enter your mobile number or click on sign up with password"
+msgstr ""
+
+#: digit.php:360 digit.php:900 digit.php:983 digit.php:3932 digit.php:4862
+#: digit.php:5208 digit.php:5646
+msgid "Log In"
+msgstr "ورود"
+
+#: digit.php:361 digit.php:1007 digit.php:3933 digit.php:5234 digit.php:5647
+msgid "Sign Up"
+msgstr "ثبت نام"
+
+#: digit.php:362 digit.php:3934 digit.php:5648
+msgid "Forgot Password"
+msgstr "فراموش رمزعبور"
+
+#: digit.php:363 digit.php:920 digit.php:1031 digit.php:1112 digit.php:3337
+#: digit.php:3866 digit.php:3935 digit.php:4446 digit.php:5144 digit.php:5261
+#: digit.php:5351 digit.php:5649 digit.php:7280 digit.php:7309
+#: includes/woocommerce-registration.php:1061
+msgid "Email"
+msgstr "ایمیل"
+
+#: digit.php:364 digit.php:918 digit.php:1029 digit.php:1098 digit.php:1464
+#: digit.php:1466 digit.php:3336 digit.php:3847 digit.php:3936 digit.php:4444
+#: digit.php:5142 digit.php:5259 digit.php:5337 digit.php:5650 digit.php:7281
+#: digit.php:7310 includes/bp.php:537 includes/um.php:112
+#: includes/woocommerce-registration.php:37
+#: includes/woocommerce-registration.php:73
+#: includes/woocommerce-registration.php:252
+#: includes/woocommerce-registration.php:253
+#: includes/woocommerce-registration.php:1118
+#: includes/woocommerce-registration.php:1255
+#: includes/woocommerce-registration.php:1333
+msgid "Mobile Number"
+msgstr "شماره موبایل"
+
+#: digit.php:365 digit.php:3572 digit.php:3857 digit.php:3937 digit.php:5651
+#: digit.php:7034
+msgid "Oh Snap!"
+msgstr "خطا!!!"
+
+#: digit.php:366 digit.php:3860 digit.php:3938 digit.php:5652
+msgid "Submit"
+msgstr "ارسال"
+
+#: digit.php:367 digit.php:3870 digit.php:3939 digit.php:5653
+msgid "Submit OTP"
+msgstr "ارسال کد تایید یکبارمصرف"
+
+#: digit.php:534
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: digit.php:862 digit.php:5562
+msgid "Please check the Pop-up."
+msgstr "لطفا پاپ آپ را چک کنید."
+
+#: digit.php:922 digit.php:1034 digit.php:1072 digit.php:4449 digit.php:5146
+#: digit.php:5264 digit.php:5311 digit.php:7308
+msgid "Username"
+msgstr "نام کاربری"
+
+#: digit.php:956 digit.php:1156 digit.php:1234 digit.php:1446 digit.php:1478
+#: digit.php:3266 digit.php:3852 digit.php:5181 digit.php:5395 digit.php:5490
+#: digit.php:7282 includes/bp.php:485 includes/bp.php:553 includes/um.php:143
+#: includes/woocommerce-registration.php:97
+#: includes/woocommerce-registration.php:287
+#: includes/woocommerce-registration.php:291
+#: includes/woocommerce-registration.php:899
+#: includes/woocommerce-registration.php:1026
+#: includes/woocommerce-registration.php:1091
+#: includes/woocommerce-registration.php:1138
+msgid "OTP"
+msgstr "کد تایید"
+
+#: digit.php:966 digit.php:1143 digit.php:1248 digit.php:1848 digit.php:3855
+#: digit.php:5192 digit.php:5382 digit.php:5504 digit.php:7283 digit.php:7311
+#: includes/woocommerce-registration.php:267
+#: includes/woocommerce-registration.php:279
+#: includes/woocommerce-registration.php:1181
+msgid "Password"
+msgstr "رمزعبور"
+
+#: digit.php:989 digit.php:5214
+msgid "Forgot your password?"
+msgstr "فراموشی رمز عبور؟"
+
+#: digit.php:999 digit.php:5226 includes/woocommerce-registration.php:947
+msgid "Login With OTP"
+msgstr "ورود با کد یکبارمصرف"
+
+#: digit.php:1000 digit.php:1182 digit.php:1261 digit.php:3853 digit.php:5227
+#: digit.php:5424 digit.php:5516 includes/bp.php:518 includes/bp.php:564
+#: includes/woocommerce-registration.php:955
+#: includes/woocommerce-registration.php:1095
+#: includes/woocommerce-registration.php:1150
+#: includes/woocommerce-registration.php:1166
+msgid "Resend OTP"
+msgstr "ارسال مجدد کد یکبار مصرف"
+
+#: digit.php:1006 digit.php:5233
+msgid "Don't have an account?"
+msgstr "آیا حساب کاربری ندارید؟"
+
+#: digit.php:1059 digit.php:5298 digit.php:7307
+msgid "Name"
+msgstr "نام"
+
+#: digit.php:1087 digit.php:1109 digit.php:3574 digit.php:3867 digit.php:5326
+#: digit.php:5348 digit.php:7036 digit.php:7405 digit.php:7616
+#: includes/woocommerce-registration.php:1045
+msgid "Optional"
+msgstr "اختیاری"
+
+#: digit.php:1174 digit.php:5416
+msgid "Signup"
+msgstr "ثبت نام"
+
+#: digit.php:1176 digit.php:5418
+msgid "Signup With OTP"
+msgstr "ثبت نام با کد تایید"
+
+#: digit.php:1188 digit.php:5430
+msgid "Signup With Password"
+msgstr "ثبت نام با رمزعبور"
+
+#: digit.php:1194 digit.php:1263 digit.php:5437 digit.php:5520
+msgid "Back to login"
+msgstr "برگشت به ورود"
+
+#: digit.php:1254 digit.php:3856 digit.php:5510
+#: includes/woocommerce-registration.php:1185
+msgid "Confirm Password"
+msgstr "رمز عبور را تأیید کنید"
+
+#: digit.php:1260 digit.php:5515
+msgid "Reset Password"
+msgstr "بازنشانی رمزعبور"
+
+#: digit.php:1281
+msgid "Powered by <span>Digits</span>"
+msgstr "افزونه ثبت نام با شماره موبایل"
+
+#: digit.php:1543
+msgid ""
+"<div><p><b>Fatal Error</b>: Digits requires curl to work correctly. </p></"
+"div>"
+msgstr "خطا"
+
+#: digit.php:1635
+msgid "KNOWLEDGEBASE"
+msgstr "دانشنامه"
+
+#: digit.php:1638
+msgid "Addons"
+msgstr "افزونه ها"
+
+#: digit.php:1641 digit.php:7705
+msgid "Activate"
+msgstr "فعالسازی"
+
+#: digit.php:1654
+msgid "Gateway"
+msgstr "تنظیمات پنل پیامکی"
+
+#: digit.php:1658
+msgid "General"
+msgstr "پیکربندی اصلی"
+
+#: digit.php:1662
+msgid "Form"
+msgstr "تنظیمات فرم"
+
+#: digit.php:1666
+msgid "Style"
+msgstr "استایل"
+
+#: digit.php:1670
+msgid "Translations"
+msgstr "ترجمه ها"
+
+#: digit.php:1674 digit.php:6974 digit.php:7060
+msgid "Shortcodes"
+msgstr "شورت کد"
+
+#: digit.php:1725
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: digit.php:1734
+msgid "Select a logo"
+msgstr "انتخاب لوگو"
+
+#: digit.php:1735
+msgid "Use this logo"
+msgstr "استفاده از این لوگو"
+
+#: digit.php:1736 digit.php:7809
+msgid "Change Image"
+msgstr "تغییر تصویر"
+
+#: digit.php:1737 digit.php:7810
+msgid "Select Image"
+msgstr "انتخاب عکس"
+
+#: digit.php:1738 digit.php:2401 digit.php:2444 digit.php:2548 digit.php:2824
+#: digit.php:2865 digit.php:7811
+msgid "Remove Image"
+msgstr "حذف عکس"
+
+#: digit.php:1843 digit.php:1844 digit.php:1846 digit.php:1849 digit.php:1853
+#: digit.php:2069 digit.php:2073
+msgid "API Key"
+msgstr "API کلید"
+
+#: digit.php:1843 digit.php:1844 digit.php:1845 digit.php:1849 digit.php:1851
+msgid "From"
+msgstr "شماره ارسال کننده"
+
+#: digit.php:1844
+msgid "API Username"
+msgstr "API نام کاربری"
+
+#: digit.php:1845
+msgid "ClockWork API"
+msgstr ""
+
+#: digit.php:1846 digit.php:1861 digit.php:2019 digit.php:2023 digit.php:2056
+#: digit.php:2060
+msgid "Sender ID"
+msgstr "شناسه ارسال کننده"
+
+#: digit.php:1847
+msgid "Access Key"
+msgstr "کلید دسترسی"
+
+#: digit.php:1847
+msgid "Originator"
+msgstr "مبدأ"
+
+#: digit.php:1848
+msgid "Mobile"
+msgstr "موبایل"
+
+#: digit.php:1848 digit.php:1850
+msgid "Sender"
+msgstr "خط ارسال کننده پیامک"
+
+#: digit.php:1849
+msgid "API Secret"
+msgstr "API Secret"
+
+#: digit.php:1850
+msgid "Auth ID"
+msgstr ""
+
+#: digit.php:1850 digit.php:2009 digit.php:2013
+msgid "Auth Token"
+msgstr ""
+
+#: digit.php:1851
+msgid "Token"
+msgstr "رمز"
+
+#: digit.php:1854
+msgid "Auth Domain"
+msgstr ""
+
+#: digit.php:1855
+msgid "Database URL"
+msgstr ""
+
+#: digit.php:1856
+msgid "Project ID"
+msgstr ""
+
+#: digit.php:1857
+msgid "Storage Bucket"
+msgstr "جعبه ذخیره سازی"
+
+#: digit.php:1858
+msgid "Messaging Sender ID"
+msgstr ""
+
+#: digit.php:1860
+msgid "AppSid"
+msgstr ""
+
+#: digit.php:1929
+msgid "SMS Gateway"
+msgstr "درگاه پیامکی"
+
+#: digit.php:1934 digit.php:1938
+msgid "Free"
+msgstr "رایگان"
+
+#: digit.php:1967
+#, php-format
+msgid "You should have paid <span>%s</span> plan to use this."
+msgstr "شما باید از سامانه <span>%s</span> پنل پیامکی داشته باشید ."
+
+#: digit.php:1976 digit.php:1979
+msgid "App ID"
+msgstr ""
+
+#: digit.php:1986
+msgid "AccountKit App Secret"
+msgstr ""
+
+#: digit.php:1990
+msgid "App Secret"
+msgstr ""
+
+#: digit.php:1998 digit.php:2002
+msgid "Account SID"
+msgstr ""
+
+#: digit.php:2030 digit.php:2034
+msgid "Authentication Key"
+msgstr "کلید تأیید اعتبار"
+
+#: digit.php:2040
+msgid "ROUTE"
+msgstr "مسیر"
+
+#: digit.php:2043
+msgid "SendOTP"
+msgstr "ارسال کد تایید"
+
+#: digit.php:2044
+msgid "Transactional"
+msgstr "تراکنش"
+
+#: digit.php:2074
+msgid ""
+"Please keep this message template similar to the one on Yunpian, just "
+"replace #code# with %OTP% otherwise messages will not be sent."
+msgstr ""
+
+#: digit.php:2123
+msgid "TEST GATEWAY SETTINGS"
+msgstr "تست تنظیمات درگاه پیامکی"
+
+#: digit.php:2126
+msgid "Your Mobile Number"
+msgstr "شماره موبایل شما"
+
+#: digit.php:2128
+msgid "Test"
+msgstr "تست"
+
+#: digit.php:2134
+msgid "Response"
+msgstr "پاسخ"
+
+#: digit.php:2239
+msgid "PRESET DESIGN"
+msgstr "تنظیمات استایل"
+
+#: digit.php:2244
+msgid "PRESET LIBRARY"
+msgstr ""
+
+#: digit.php:2245
+msgid "CLOSE"
+msgstr "بستن"
+
+#: digit.php:2250 digit.php:2259
+msgid "CUSTOM"
+msgstr "سفارشی"
+
+#: digit.php:2294
+msgid "Preset"
+msgstr "استایل مورد نظر"
+
+#: digit.php:2297
+msgid "Select Preset"
+msgstr "انتخاب از نمونه های پیش فرض (کلیک کنید)"
+
+#: digit.php:2325
+msgid "FORM TYPE"
+msgstr "نوع فرم"
+
+#: digit.php:2328 digit.php:2386
+msgid "Page"
+msgstr "صفحه"
+
+#: digit.php:2356 digit.php:2800
+msgid "Modal"
+msgstr "ماژول"
+
+#: digit.php:2391
+msgid "Logo"
+msgstr "لوگو"
+
+#: digit.php:2398 digit.php:2441 digit.php:2545 digit.php:2821 digit.php:2862
+msgid "Select image"
+msgstr "انتخاب تصویر"
+
+#: digit.php:2416 digit.php:2457 digit.php:2561 digit.php:2838 digit.php:2878
+#: digit.php:3397 digit.php:3405 digit.php:3415 digit.php:3424
+msgid "URL"
+msgstr "آدرس url"
+
+#: digit.php:2425
+msgid "Login Page Left Background Color"
+msgstr "رنگ پس زمینه برگه ورود"
+
+#: digit.php:2434
+msgid "Login Page Left Image"
+msgstr "تصویر چپ صفحه ورود"
+
+#: digit.php:2468 digit.php:2889
+msgid "Login Page Left Background Size"
+msgstr "اندازه سمت چپ بکگراند صفحه ورود"
+
+#: digit.php:2486 digit.php:2907
+msgid "Login Page Left Background Position"
+msgstr "موقعیت بکگراند چپ صفحه ورود"
+
+#: digit.php:2506
+msgid "Login Page Footer"
+msgstr "فوتر صفحه ورود"
+
+#: digit.php:2518
+msgid "Login Page Footer Text Color"
+msgstr "رنگ متن فوتر صفحه ورود"
+
+#: digit.php:2528
+msgid "Login Page Background Color"
+msgstr "رنگ بکگراند صفحه ورود"
+
+#: digit.php:2538
+msgid "Login Page Background Image"
+msgstr "تصویر پس زمینه برگه ورود"
+
+#: digit.php:2572
+msgid "Login Box Background Color"
+msgstr "رنگ بکگراند باکس ورود"
+
+#: digit.php:2581
+msgid "Login Box Shadow"
+msgstr "سایه باکس ورود"
+
+#: digit.php:2588 digit.php:2942
+msgid "X"
+msgstr ""
+
+#: digit.php:2592 digit.php:2946
+msgid "Y"
+msgstr ""
+
+#: digit.php:2596 digit.php:2950
+msgid "Blur"
+msgstr "تیرگی"
+
+#: digit.php:2600 digit.php:2956
+msgid "Spread"
+msgstr "منتشر شده"
+
+#: digit.php:2611
+msgid "Login Box Shadow Color"
+msgstr "رنگ سایه باکس ورود"
+
+#: digit.php:2618
+msgid "Login Box Radius"
+msgstr "خمیدگی باکس ورود"
+
+#: digit.php:2631 digit.php:2987
+msgid "Text and Button Color"
+msgstr "رنگ دکمه و متن"
+
+#: digit.php:2631 digit.php:2987
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: digit.php:2640 digit.php:2996
+msgid "Button Font Color"
+msgstr "رنگ نوشته دکمه"
+
+#: digit.php:2647
+msgid "Back/Cancel Button Color"
+msgstr "رنگ دکمه برگشت/انصراف"
+
+#: digit.php:2656 digit.php:3005
+msgid "Input Background Color"
+msgstr "رنگ پس زمینه ورودی"
+
+#: digit.php:2663 digit.php:3012
+msgid "Input Border Color"
+msgstr "رنگ خط ورودی"
+
+#: digit.php:2670 digit.php:3019
+msgid "Input Text Color"
+msgstr "رنگ متن ورودی"
+
+#: digit.php:2677 digit.php:3026
+msgid "Button Border Color"
+msgstr "رنگ خط دکمه"
+
+#: digit.php:2685 digit.php:3034
+msgid "Button Text Color"
+msgstr "رنگ متن دکمه"
+
+#: digit.php:2693 digit.php:3042
+msgid "Signup Button Color"
+msgstr "رنگ دکمه ثبت نام"
+
+#: digit.php:2700 digit.php:3049
+msgid "Signup Button Border Color"
+msgstr "رنگ خط دکمه ثبت نام"
+
+#: digit.php:2708 digit.php:3057
+msgid "Signup Button Text Color"
+msgstr "رنگ متن دکمه ثبت نام"
+
+#: digit.php:2803
+msgid "Modal Overlay Color"
+msgstr "رنگ پوشش ماژول"
+
+#: digit.php:2814
+msgid "Login Modal Background Image"
+msgstr "تصویر زمینه ماژول ورود"
+
+#: digit.php:2848
+msgid "Login Box Left Background Color"
+msgstr ""
+
+#: digit.php:2855
+msgid "Login Box Left Image"
+msgstr "تصویر چپ باکس ورود"
+
+#: digit.php:2926
+msgid "Login Modal Background Color"
+msgstr "رنگ زمینه ماژول ورود"
+
+#: digit.php:2935
+msgid "Login Modal Shadow"
+msgstr "سایه ماژول ورود"
+
+#: digit.php:2965
+msgid "Login Modal Shadow Color"
+msgstr "رنگ سایه ماژول ورود"
+
+#: digit.php:2973
+msgid "Login Modal Radius"
+msgstr "خمیدگی ماژول ورود"
+
+#: digit.php:3068
+msgid "Advanced Options"
+msgstr "تنظیمات پیشرفته"
+
+#: digit.php:3072
+msgid "Custom CSS"
+msgstr "css سفارشی"
+
+#: digit.php:3084 digit.php:7162 digit.php:7733 digit.php:7755 digit.php:7787
+#: digit.php:7852 digit.php:7944
+msgid "Continue"
+msgstr "ادامه"
+
+#: digit.php:3087 digit.php:7164 digit.php:7598 digit.php:7735 digit.php:7757
+#: digit.php:7789 digit.php:7854
+msgid "Back"
+msgstr "برگشت"
+
+#: digit.php:3125
+msgid "Basic"
+msgstr "اولیه"
+
+#: digit.php:3129
+msgid "Use Mobile Number as Username"
+msgstr "استفاده از شماره موبایل به عنوان نام کاربری"
+
+#: digit.php:3132 digit.php:3142 digit.php:3155 digit.php:3321 digit.php:3353
+#: digit.php:3371 digit.php:7343 digit.php:7354 digit.php:7380 digit.php:7515
+msgid "Yes"
+msgstr "بله"
+
+#: digit.php:3133 digit.php:3143 digit.php:3156 digit.php:3323 digit.php:3355
+#: digit.php:3373 digit.php:3573 digit.php:7035 digit.php:7344 digit.php:7355
+#: digit.php:7381 digit.php:7406 digit.php:7516
+msgid "No"
+msgstr "خیر"
+
+#: digit.php:3139
+msgid "Enable Forgot Password"
+msgstr "فعال کردن فراموشی رمزعبور"
+
+#: digit.php:3146
+msgid "This function only works on Digits Login/Signup Modal and Page"
+msgstr "این مورد تنها در استفاده از شورت کدها افزونه کار میکند"
+
+#: digit.php:3152
+msgid "Enable Strong Password for Registration"
+msgstr "فعال کردن رمز قوی برای ثبت نام"
+
+#: digit.php:3164
+msgid "Default User Role"
+msgstr "نقش کاربری پیشفرض"
+
+#: digit.php:3181
+msgid "The default role which will be assigned to new user created."
+msgstr "این مورد در هنگام ثبت نام کاربر جدید استفاده میشود."
+
+#: digit.php:3185
+msgid "OTP SMS"
+msgstr "ارسال کد تایید یکبارمصرف"
+
+#: digit.php:3188
+msgid "Default Country Code"
+msgstr "کد کشور پیشفرض"
+
+#: digit.php:3223
+msgid "Country Codes Whitelist"
+msgstr "کد کشور بیشتر استفاده شده (مورد علاقه)"
+
+#: digit.php:3244
+msgid ""
+"Sign In/Sign Up will be allowed for phone numbers with these country codes. "
+"To allow Sign In/Sign Up for all country codes, leave this blank."
+msgstr ""
+"ورود به سیستم / ثبت نام با شماره تلفن با این کد کشور مجاز خواهد بود. برای "
+"اجازه ورود به سیستم / ثبت نام برای همه کدهای کشور، این را خالی بگذارید."
+
+#: digit.php:3260
+msgid "Message Template"
+msgstr "نمونه متن"
+
+#: digit.php:3266
+msgid "Site Name"
+msgstr "نام سایت"
+
+#: digit.php:3272
+msgid "OTP size"
+msgstr "تعداد ارقام کد تایید"
+
+#: digit.php:3289
+msgid "OTP Resend Time"
+msgstr "زمان ارسال مجدد کد تایید (ثانیه)"
+
+#: digit.php:3294
+msgid "0"
+msgstr "0"
+
+#: digit.php:3295
+msgid "Seconds"
+msgstr "در ثانیه"
+
+#: digit.php:3313
+msgid "WooCommerce Settings"
+msgstr "تنظیمات ووکامرس"
+
+#: digit.php:3317
+msgid "Create Customer Button"
+msgstr "ایجاد دکمه سفارشی"
+
+#: digit.php:3326
+msgid "Add customer on Add Order Page on dashboard using Modal"
+msgstr "اضافه کردن مشتری در صفحه سفارش در داشبورد با استفاده از ماژول"
+
+#: digit.php:3331
+msgid "Required field for billing info"
+msgstr "فیلد اجباری برای اطلاعات صورتحساب"
+
+#: digit.php:3335
+msgid "Mobile Number and Email"
+msgstr "شماره موبایل و ایمیل"
+
+#: digit.php:3349
+msgid "Override Billing and Shipping Mobile Fields"
+msgstr "نایده گرفتن فیلد موبایل در اطلاعات حمل و نقل و اطلاعات صورتحساب"
+
+#: digit.php:3358
+msgid "This will add country code to WooCommerce mobile fields"
+msgstr "این کد کشور را به فیلدهای تلفن همراه WooCommerce اضافه خواهد کرد"
+
+#: digit.php:3367
+msgid "Mobile verification during checkout"
+msgstr "تأیید شماره موبایل در هنگام پرداخت (صفحه تکمیل اطلاعات)"
+
+#: digit.php:3388
+msgid "Redirection"
+msgstr "تغییر مسیر"
+
+#: digit.php:3392
+msgid "Login Redirect"
+msgstr "تغییر مسیر ورود"
+
+#: digit.php:3398 digit.php:3406 digit.php:3416 digit.php:3425
+msgid "Leave blank for auto redirect"
+msgstr "برای تغییر مسیر خودکار خالی بگذارید"
+
+#: digit.php:3402
+msgid "Register Redirect"
+msgstr "تغییر مسیر ثبت نام"
+
+#: digit.php:3410
+msgid "Forgot Password Redirect"
+msgstr "تغییر مسیر فراموش رمز عبور"
+
+#: digit.php:3420
+msgid "Logout Redirect"
+msgstr "تغییر مسیر خروج"
+
+#: digit.php:3426
+msgid "Note:"
+msgstr "توجه داشته باشید:"
+
+#: digit.php:3426
+msgid "Custom Redirect only works on Digits Login/Signup Modal and Page"
+msgstr ""
+"تغییر مسیر سفارش تنها در ماژول و برگه های ایجاد شده از طریق شورت کد افزونه "
+"قابل استفاده است"
+
+#: digit.php:3557 digit.php:7019
+msgid ""
+"Please activate your plugin to change the look and feel of your Login page "
+"and Popup"
+msgstr "لطفا پلاگین را فعال کنید تا تغییرات را در برگه ورود و یا پاپ آپ ببینید"
+
+#: digit.php:3558 digit.php:7020
+msgid "Oops! You cannot enable email without password for login"
+msgstr ""
+"وای! شما نمی توانید ایمیل را بدون رمز عبور برای ورود به سیستم فعال کنید"
+
+#: digit.php:3559 digit.php:7021
+msgid "Both Password and OTP cannot be disabled"
+msgstr "هر دو رمز عبور و کد تایید را نمی توان غیر فعال کرد"
+
+#: digit.php:3560 digit.php:7022 digit.php:7455
+msgid "Select a type"
+msgstr "انتخاب نوع"
+
+#: digit.php:3561 digit.php:7023
+msgid "Invalid msg91 sender id!"
+msgstr "شناسه فرستنده msg91 نامعتبر است!"
+
+#: digit.php:3562 digit.php:7024
+msgid "Invalid Purchase Code"
+msgstr "لایسنس نامعتبر است"
+
+#: digit.php:3564 digit.php:7026
+msgid "Please complete your API Settings"
+msgstr "لطفا تنظیمات درپاه پیامکی را تکمیل کنید"
+
+#: digit.php:3565 digit.php:7027
+msgid "Please complete your Custom Field Settings"
+msgstr "لطفا تکمیل کنید تنظیمات فیلدهای سفارشی را"
+
+#: digit.php:3566 digit.php:7028
+msgid "Copied to clipboard"
+msgstr "کپی در کلیپبورد"
+
+#: digit.php:3569 digit.php:7031
+msgid "Field Already exist"
+msgstr "فیلد قبلا وجود دارد"
+
+#: digit.php:3570 digit.php:7032
+msgid "Duplicate Value"
+msgstr "تکراری"
+
+#: digit.php:3575 digit.php:7037 digit.php:7404 digit.php:7618
+msgid "Required"
+msgstr "اجباری"
+
+#: digit.php:3576 digit.php:7038
+msgid "Please enter a valid mobile number"
+msgstr "لطفا شماره موبایل معتبر وارد کنید"
+
+#: digit.php:3839
+msgid "Register With Password"
+msgstr "ثبت نام با رمزعبور"
+
+#: digit.php:3841
+msgid "Invalid Password"
+msgstr "رمزعبور نامعتبر است"
+
+#: digit.php:3849 includes/register.php:700
+msgid "Please try again"
+msgstr "لطفا مجدد تلاش کنید"
+
+#: digit.php:3851
+msgid "Username/Mobile Number"
+msgstr "نام کاربری/شماره موبایل"
+
+#: digit.php:3858
+msgid "Please enter your Mobile Number/Email"
+msgstr "لطفا ایمیل/شماره موبایل را وارد کنید"
+
+#: digit.php:3859
+msgid "Either enter your Mobile Number or use Password!"
+msgstr "شماره تلفن همراه خود را وارد کنید یا از رمز عبور استفاده کنید!"
+
+#: digit.php:3862
+msgid "SIGN UP WITH PASSWORD"
+msgstr "ثبت نام با رمزعبور"
+
+#: digit.php:3863
+msgid "SIGN UP WITH OTP"
+msgstr "ثبت نام با کد تایید"
+
+#: digit.php:3864
+msgid "SIGN UP"
+msgstr "ثبت نام"
+
+#: digit.php:3865 includes/woocommerce-registration.php:939
+msgid "OR"
+msgstr "یا"
+
+#: digit.php:4119 includes/register.php:302
+msgid "Invalid Credentials!"
+msgstr "گواهی نامه نامعتبر!"
+
+#: digit.php:4215
+msgid "The email could not be sent."
+msgstr "ایمیل را نمی توان فرستاد."
+
+#: digit.php:4215
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "دلیل احتمالی: میزبان شما ممکن است عملکرد mail () را غیرفعال کند."
+
+#: digit.php:4220
+msgid ""
+"Your password reset link appears to be expired or invalid. Please request a "
+"new link."
+msgstr ""
+"لینک بازنشانی گذرواژه به نظر می رسد منسوخ شده یا نامعتبر است. لطفا یک لینک "
+"جدید درخواست کنید."
+
+#: digit.php:4276
+msgid ""
+"A password reset email has been sent to the email address, but may take "
+"several minutes to show up in your inbox. Please wait at least 10 minutes "
+"before attempting another reset."
+msgstr ""
+"یک ایمیل بازنشانی رمز عبور به آدرس ایمیل ارسال شده است، اما ممکن است چندین "
+"دقیقه طول بکشد تا در صندوق ورودی شما ظاهر شود. لطفا حداقل 10 دقیقه صبر کنید "
+"تا دوباره ارسال مجدد شود."
+
+#: digit.php:4278
+msgid "Invalid e-mail!"
+msgstr "ایمیل نامعتبر!"
+
+#: digit.php:4329
+msgid "Please use a stronger password!"
+msgstr "لطفا از رمز عبور قوی استفاده کنید!"
+
+#: digit.php:4405
+msgid "Password changed successfully."
+msgstr "تغییر رمزعبور تکمیل شد."
+
+#: digit.php:4409
+msgid "Error! User not found."
+msgstr "خطا! کاربر پیدا نشد."
+
+#: digit.php:4472 includes/bp.php:67 includes/register.php:392
+msgid "Invalid Name!"
+msgstr "نام نامعتبر است!"
+
+#: digit.php:4476 digit.php:4697
+msgid "Invalid Username!"
+msgstr "نام کاربری نامعتبر است!"
+
+#: digit.php:4483 digit.php:4486 includes/bp.php:81 includes/bp.php:307
+msgid "Invalid Password!"
+msgstr "رمزعبور نامعتبر است!"
+
+#: digit.php:4497
+msgid "Please enter as valid Mobile Number!"
+msgstr "لطفا شماره موبایل معتبر وارد کنید!"
+
+#: digit.php:4502 digit.php:4519 includes/register.php:405
+#: includes/register.php:409 includes/register.php:425
+#: includes/woocommerce-registration.php:346
+msgid "Please enter a valid Mobile Number!"
+msgstr "لطفا شماره موبایل معتبر وارد کنید!"
+
+#: digit.php:4509 digit.php:4513 includes/register.php:415
+#: includes/register.php:419 includes/woocommerce-registration.php:349
+msgid "Please enter a valid Email!"
+msgstr "لطفا ایمیل معتبر وازد کنید!"
+
+#: digit.php:4523 includes/register.php:429
+msgid "Invalid Email or Mobile Number"
+msgstr "ایمیل یا شماره موبایل نامعتبر است"
+
+#: digit.php:4530 includes/register.php:436
+#: includes/woocommerce-registration.php:694
+msgid "Email already in use!"
+msgstr "ایمیل در حال استفاده است!"
+
+#: digit.php:4552 digit.php:4654 includes/register.php:575
+msgid "Error while generating username!"
+msgstr "خطا هنگام تولید نام کاربری!"
+
+#: digit.php:4554 includes/register.php:474
+msgid "Mobile/Email is already in use!"
+msgstr "موبایل/ایمیل در حال استفاده است!"
+
+#: digit.php:4579 includes/register.php:455
+msgid "Username is already in use!"
+msgstr "این نام کاربری قبلا انتخاب شده است!"
+
+#: digit.php:4638 includes/bp.php:264 includes/bp.php:274 includes/bp.php:276
+#: includes/register.php:567 includes/register.php:580
+#: includes/register.php:582 includes/um.php:29 includes/um.php:31
+msgid "Mobile number already in use!"
+msgstr "شماره تلفن در حال حاضر در حال استفاده است!"
+
+#: digit.php:4651 includes/login.php:985
+msgid "Invalid Mobile Number"
+msgstr "شماره موبایل نامعتبر"
+
+#: digit.php:4682 includes/register.php:615
+msgid "Email is already in use!"
+msgstr "ایمیل در حال حاضر در حال استفاده!"
+
+#: digit.php:5106
+msgid "BACK"
+msgstr "برگشت"
+
+#: digit.php:5863 includes/woocommerce-registration.php:161
+msgid "Please fill all the required details!"
+msgstr "لطفا تمام اطلاعات مورد نیاز را پر کنید!"
+
+#: digit.php:5871
+msgid "Please enter a valid Captcha!"
+msgstr "لطفا یک کپچا معتبر وارد کنید!"
+
+#: digit.php:5877
+msgid "Please accept terms and condition!"
+msgstr "لطفا شرایط و قوانین را بپذیرید!"
+
+#: digit.php:5887 digit.php:5892 digit.php:5896
+msgid "Please select a valid option!"
+msgstr "لطفا یک گزینه معتبر را انتخاب کنید!"
+
+#: digit.php:6041 digit.php:6071
+msgid "Nothing"
+msgstr "هیچ چیز"
+
+#: digit.php:6926
+msgid "Setup"
+msgstr "ترتیب"
+
+#: digit.php:6958
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: digit.php:6962
+msgid "Activation"
+msgstr "فعالسازی افزونه"
+
+#: digit.php:6966
+msgid "Docs"
+msgstr ""
+
+#: digit.php:6970 digit.php:7842
+msgid "API Settings"
+msgstr "تنظیمات API"
+
+#: digit.php:6978
+msgid "Ready"
+msgstr "آماده"
+
+#: digit.php:7065
+msgid "Login Page"
+msgstr "صفحه ورود"
+
+#: digit.php:7069 digit.php:7080 digit.php:7092 digit.php:7106 digit.php:7121
+#: digit.php:7136 digit.php:7148
+msgid "Copy"
+msgstr "کپی"
+
+#: digit.php:7075
+msgid "Registration Page"
+msgstr "صفحه ثبت نام"
+
+#: digit.php:7087
+msgid "Forgot Password Page"
+msgstr "صفحه فراموشی رمز"
+
+#: digit.php:7101
+msgid "Login Modal"
+msgstr "ماژول ورود"
+
+#: digit.php:7116
+msgid "Registration Modal"
+msgstr "ماژول ثبت نام"
+
+#: digit.php:7131
+msgid "Forgot Password Modal"
+msgstr "ماژول فراموشی رمز"
+
+#: digit.php:7143
+msgid "Logout Shortcode"
+msgstr "شورت کد خروج"
+
+#: digit.php:7176
+msgid "Menu Items"
+msgstr "آیتم های منو"
+
+#: digit.php:7179 digit.php:7187
+msgid "Login / Register"
+msgstr "ورود / عضویت"
+
+#: digit.php:7180 digit.php:7195
+msgid "Register"
+msgstr "ثبت نام"
+
+#: digit.php:7181
+msgid "Forgot your Password?"
+msgstr "رمز عبور را فراموش کردید؟"
+
+#: digit.php:7182 digit.php:7212
+msgid "My Account"
+msgstr "حساب کاربری من"
+
+#: digit.php:7183 digit.php:7220
+msgid "Logout"
+msgstr "خروج"
+
+#: digit.php:7204
+msgid "Forgot"
+msgstr "فراموشی"
+
+#: digit.php:7232
+msgid ""
+"Transation of whole plugin can be done through POT file present in the "
+"plugin languages folder. You'll need to upload .MO and .PO files to the "
+"languages folder of this plugin. The easiest way to translate is to use Loco "
+"Translate WordPress plugin."
+msgstr " "
+
+#: digit.php:7340
+msgid "Enable Registration"
+msgstr "فعال کردن ثبت نام"
+
+#: digit.php:7351
+msgid "Show asterisk (*) on required fields"
+msgstr "نمایش ستاره (*) در فیلدهای مورد نیاز"
+
+#: digit.php:7365
+msgid "LOGIN FIELDS"
+msgstr "فیلدهای ورود"
+
+#: digit.php:7390
+msgid "REGISTRATION FIELDS"
+msgstr "فیلدهای ثبت نام"
+
+#: digit.php:7447
+msgid "ADD FIELD"
+msgstr "افزودن فیلد"
+
+#: digit.php:7476
+msgid "WordPress / WooCommerce Fields"
+msgstr "فیلد های وردپرس / ووکامرس"
+
+#: digit.php:7495
+msgid "Label"
+msgstr "برچسب"
+
+#: digit.php:7502
+msgid ""
+"Enclose the word(s) between [t] and [/t] for terms and condition and [p] and "
+"[/t] for privacy policy."
+msgstr ""
+"نوشتن متن\n"
+"(s) ما بین [t] and [/t] برای شرایط و مقررات\n"
+" [p] و [/t] برای حفظ رازداری."
+
+#: digit.php:7504
+msgid ""
+"For example \"Agree [t]Terms and Conditions[/t] & [p]Privacy Policy[/t]\""
+msgstr "برای مثال \"موافق [t]قوانین[/t] و [p]شرایط[/t]\""
+
+#: digit.php:7511
+msgid "Required Field"
+msgstr "فیلد اجباری"
+
+#: digit.php:7523
+msgid "Meta Key"
+msgstr "کلید متا"
+
+#: digit.php:7531
+msgid "Custom Class"
+msgstr "کلاس سفارشی"
+
+#: digit.php:7541
+msgid "Options"
+msgstr "گزینه ها"
+
+#: digit.php:7547
+msgid "Add a Option"
+msgstr "افزودن گزینه"
+
+#: digit.php:7554
+msgid "Terms & Conditions Link"
+msgstr "لینک شرایط و قوانین"
+
+#: digit.php:7563
+msgid "Privacy Link"
+msgstr "لینک  حریم خصوص"
+
+#: digit.php:7573
+msgid "User Roles"
+msgstr "نقش های کاربری"
+
+#: digit.php:7597
+msgid "Add"
+msgstr "افزودن"
+
+#: digit.php:7629
+msgid "Activate Digits"
+msgstr "فعال کردن DIGITS"
+
+#: digit.php:7648
+msgid "Is this domain your"
+msgstr "این دامنه شماست"
+
+#: digit.php:7650
+msgid "Live Server"
+msgstr "سرور زنده"
+
+#: digit.php:7651
+msgid "Testing Server"
+msgstr "تست سرور"
+
+#: digit.php:7655
+msgid "Purchase code"
+msgstr "لایسنس خرید"
+
+#: digit.php:7660
+msgid "Purchase Code"
+msgstr "لایسنس"
+
+#: digit.php:7662
+msgid "UNREGISTER"
+msgstr "فعال سازی"
+
+#: digit.php:7676
+msgid ""
+"Please activate your plugin by entering purchase code to remove \"Powered By"
+msgstr ""
+"لطفا هیچگونه دستکاری در این قسمت انجام ندهید ، هر گونه دستکاری در این بخش "
+"باعث می شود که سیستم دچار مشکل شود."
+
+#: digit.php:7677
+msgid "and receive updates"
+msgstr "فارسی سازی ، پشتیبانی و بومی سازی توسط IPPanel"
+
+#: digit.php:7686
+msgid ""
+"If you want to use same purchase code on your live server then please click "
+"the below button to request for it. Our team will take less than 12 hours to "
+"respond to your request, and will notify via email."
+msgstr ""
+"لایسنس سیستم توسط برنامه نویسان ما غیر فعال شده و درگاه های ایرانی به این "
+"سیستم اضافه شده است."
+
+#: digit.php:7688
+msgid "Request Live Server Addition"
+msgstr ""
+
+#: digit.php:7689
+msgid "Request Testing Server Addition"
+msgstr ""
+
+#: digit.php:7707
+msgid "Skip"
+msgstr "رد کردن این مرحله (این مرحله را نادیده بگیرید و بگذرید)"
+
+#: digit.php:7720
+msgid "Have a look at our documentation"
+msgstr ""
+
+#: digit.php:7722
+msgid ""
+"Do you feel like you need some help with the setup, go through our detailed "
+"documentation it will guide you through."
+msgstr ""
+
+#: digit.php:7726
+msgid "Open Documentation"
+msgstr "مشاهده راهنما"
+
+#: digit.php:7729
+msgid ""
+"Having the documentation opened in other tab can help you if you get stuck "
+"somewhere in the middle."
+msgstr ""
+"داشتن اسناد باز شده در برگه دیگر می تواند به شما کمک کند اگر در جایی در وسط "
+"گیر افتاده باشید."
+
+#: digit.php:7730
+msgid ""
+"Don't worry, we'll not tell anyone that you went through our documentation "
+"to setup this simple thing."
+msgstr ""
+"نگران نباشید، ما به هیچکس نمی گویم که شما از طریق اسناد ما رفته اید تا این "
+"چیز ساده را راه اندازی کنید."
+
+#: digit.php:7747
+msgid "Digits is ready!"
+msgstr "دیجیت آماده است!"
+
+#: digit.php:7748
+msgid ""
+"Congratulations! Digits has been activated and your website is ready. Login "
+"to your WordPress\n"
+"        dashboard to make changes and modify any of the content to suit your "
+"needs."
+msgstr ""
+
+#: digit.php:7778
+msgid "Login Page Configuration"
+msgstr "تنظیمات برگه ورود"
+
+#: digit.php:7807
+msgid "Select a Image"
+msgstr "انتخاب تصویر"
+
+#: digit.php:7808
+msgid "Use this Image"
+msgstr "استفاده از تصویر"
+
+#: digit.php:7871
+msgid "Coming Soon"
+msgstr "به زودی"
+
+#: digit.php:7905
+msgid "Installed"
+msgstr "نصب شده است"
+
+#: digit.php:7933
+msgid "Welcome to the configuration wizard for DIGITS!"
+msgstr "به تنظیمات DIGITS خوش آمدید!"
+
+#: digit.php:7935
+msgid ""
+"Thank you for choosing Digits. This quick setup wizard will help you to "
+"configure this plugin in a few simple steps."
+msgstr ""
+"با تشکر از شما برای انتخاب digits. این جادوگر راه اندازی سریع به شما کمک "
+"خواهد کرد که پلاگین را در چند مرحله ساده پیکربندی کنید."
+
+#: digit.php:7937
+msgid "It should only take 4-5 minutes."
+msgstr "فقط 4-5 دقیقه طول میکشد."
+
+#: digit.php:7939
+msgid ""
+"Busy right now! If you don't want to go through the wizard, you can skip and "
+"return to the WordPress dashboard and come back anytime."
+msgstr ""
+"الان سرم شلوغه! اگر شما نمی خواهید از طریق جادوگر بروید، می توانید به "
+"داشبورد وردپرس بروید و به هر جا بازگردید."
+
+#: digit.php:7958
+msgid "Return to the WordPress Dashboard"
+msgstr "برگشت به داشبورد وردپرس"
+
+#: gateways/clockwork/wordpress/class-clockwork-plugin.php:224
+msgid "Clockwork SMS"
+msgstr ""
+
+#: gateways/clockwork/wordpress/class-clockwork-plugin.php:225
+msgid "Clockwork Options"
+msgstr ""
+
+#: includes/bp.php:77
+msgid "Invalid Email or Mobile number"
+msgstr "شماره تلفن یا ایمیل نامعتبر است"
+
+#: includes/bp.php:109
+msgid "This is a required field"
+msgstr "این فیلد ضروری است"
+
+#: includes/bp.php:467
+msgid "Choose a Password"
+msgstr "یک رمز عبور انتخاب کنید"
+
+#: includes/bp.php:467
+msgid "(required)"
+msgstr "(ضروری)"
+
+#: includes/bp.php:517
+msgid "Sign Up With OTP"
+msgstr "ثبت نام با کد تایید یکبار مصرف"
+
+#: includes/bp.php:521
+msgid "Sign Up With Password"
+msgstr "ثبت نام با رمز عبور"
+
+#: includes/ihu.php:360 includes/ihu.php:373 includes/ihu.php:378
+#: includes/ihu.php:384 includes/ihu.php:390 includes/ihu.php:482
+msgid "Please enter the expiration date in the MMYY format"
+msgstr "لطفا تاریخ انقضا در قالب MMYY را وارد کنید"
+
+#: includes/ihu.php:398 includes/ihu.php:404 includes/ihu.php:507
+#: includes/ihu.php:512
+msgid "Invalid card number"
+msgstr "شماره کارت نامعتبر است"
+
+#: includes/ihu.php:410 includes/ihu.php:416 includes/ihu.php:517
+#: includes/ihu.php:522
+msgid "Name field can only contain letters"
+msgstr "فیلد نام فقط می تواند شامل حروف باشد"
+
+#: includes/ihu.php:490 includes/ihu.php:500
+msgid "Wrong month"
+msgstr "ماه اشتباه است"
+
+#: includes/ihu.php:495
+msgid "Wrong year"
+msgstr "سال نادرست است"
+
+#: includes/ihu.php:789
+msgid "Your Invitation Code is wrong."
+msgstr "کد تایید شما اشتباه است."
+
+#: includes/ihu.php:1108 includes/ihu.php:1306
+msgid "Bank Transfer Payment: Start process."
+msgstr "پرداخت بانکی انتقال: روند شروع."
+
+#: includes/ihu.php:1479
+msgid " chose Level "
+msgstr "سطح را انتخاب کنید"
+
+#: includes/ihu.php:1539
+msgid " become active for "
+msgstr "فعال شدن برای"
+
+#: includes/register.php:111
+msgid "is a required field."
+msgstr "یک فیلد ضروری است."
+
+#: includes/register.php:146
+msgid "This Mobile number is already registered."
+msgstr "این شماره موبایل قبلا ثبت شده است."
+
+#: includes/register.php:171
+msgid "Please provide a valid email address/Mobile number."
+msgstr "لطفا یک ایمیل / شماره تلفن معتبر وارد کنید."
+
+#: includes/register.php:177 includes/woocommerce-registration.php:392
+#: includes/woocommerce-registration.php:398
+msgid "Please provide a valid email address."
+msgstr "لطفا یک آدرس ایمیل معتبر وارد کنید."
+
+#: includes/register.php:179
+msgid "This email address is already registered."
+msgstr "این آدرس پست الکترونیک قبلا ثبت شده است."
+
+#: includes/register.php:188
+msgid "Please fill out all password fields."
+msgstr "لطفا تمام فیلدهای رمز را پر کنید."
+
+#: includes/register.php:191
+msgid "Please enter your current password."
+msgstr "لطفا رمزعبور فعلی خود را وارد کنید."
+
+#: includes/register.php:194
+msgid "Please re-enter your password."
+msgstr "لطفا رمز عبور خود را دوباره وارد کنید."
+
+#: includes/register.php:197
+msgid "New passwords do not match."
+msgstr "کلمه عبور جدید مطابقت ندارد."
+
+#: includes/register.php:200
+msgid "Your current password is incorrect."
+msgstr "رمز عبور فعلی شما اشتباه است."
+
+#: includes/register.php:221
+msgid "Account details changed successfully."
+msgstr "جزئیات حساب با موفقیت تغییر کرد."
+
+#: includes/register.php:609
+msgid "Invalid password"
+msgstr "رمز عبور نامعتبر"
+
+#: includes/register.php:638
+msgid "Error:"
+msgstr "خطا:"
+
+#: includes/register.php:753
+msgid "Enter a username or email address."
+msgstr "یک نام کاربری یا آدرس ایمیل وارد کنید."
+
+#: includes/register.php:778 includes/register.php:784
+msgid "Invalid username or email."
+msgstr "نام کاربری یا ایمیل نامعتبر است."
+
+#: includes/register.php:798
+msgid "Password reset is not allowed for this user"
+msgstr "تنظیم مجدد رمز عبور برای این کاربر مجاز نیست"
+
+#: includes/um.php:35
+msgid "Error, Please try again later!"
+msgstr "خطا، لطفا بعدا دوباره امتحان کنید!"
+
+#: includes/um.php:40
+msgid "Please enter Mobile Number."
+msgstr "لطفا شماره تلفن را وارد کنید."
+
+#: includes/um.php:48 includes/um.php:59 includes/um.php:69 includes/um.php:77
+msgid "Unable to verify Mobile number"
+msgstr "قادر به تأیید شماره تلفن همراه نیست"
+
+#: includes/wcs.php:34
+#, php-format
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: includes/wcs.php:70
+msgid "Verification Code"
+msgstr "کد تایید"
+
+#: includes/wcs.php:71
+#, php-format
+msgid "Please type the verification code sent to %s."
+msgstr "لطفا کد تأیید ارسال شده را تایپ کنید %s."
+
+#: includes/wcs.php:82
+msgid "SUBMIT"
+msgstr "ارسال"
+
+#: includes/wcs.php:206
+msgid ""
+"<b>Digits:</b> Please activate digits with purchase code to function "
+"properly. In case you are using same purchase code on your testing/"
+"production server as well then make sure to request addon domain from <a "
+"href=\""
+msgstr "IPPanel"
+
+#: includes/wcs.php:209
+msgid "<b>Digits:</b> Please activate digits with purchase code within "
+msgstr "IPPanel"
+
+#: includes/woocommerce-registration.php:69
+msgid "Extra Profile Information"
+msgstr "اطلاعات پروفایل اضافی"
+
+#: includes/woocommerce-registration.php:81
+msgid "Please enter your Mobile Number."
+msgstr "لطفا شماره موبایل خود را وارد کنید."
+
+#: includes/woocommerce-registration.php:187
+msgid "Please enter your email or Mobile Number!"
+msgstr "لطفا ایمیل یا شماره تلفن خود را وارد کنید!"
+
+#: includes/woocommerce-registration.php:258
+msgid "Billing Email"
+msgstr "آدرس ایمیل"
+
+#: includes/woocommerce-registration.php:259
+msgid "Billing Mobile Number"
+msgstr "شماره موبایل"
+
+#: includes/woocommerce-registration.php:361
+msgid "Please verify your Mobile Number!"
+msgstr "لطفا شماره موبایل خود را تأیید کنید!"
+
+#: includes/woocommerce-registration.php:384
+msgid "Unable to verify OTP!"
+msgstr "امکان تأیید کد وجود ندارد!"
+
+#: includes/woocommerce-registration.php:403
+msgid "An account is already registered with your email address. Please login."
+msgstr "یک حساب کاربری قبلا با آدرس ایمیل شما ثبت شده است. لطفا وارد شوید."
+
+#: includes/woocommerce-registration.php:423
+msgid "Invalid Mobile Number or email"
+msgstr "شماره تلفن یا ایمیل نامعتبر است"
+
+#: includes/woocommerce-registration.php:465
+msgid "Mobile number is already in use!"
+msgstr "شماره تلفن در حال حاضر در حال استفاده است!"
+
+#: includes/woocommerce-registration.php:506
+#: includes/woocommerce-registration.php:514
+msgid "Error verifying Mobile Number"
+msgstr "خطا در تأیید شماره تلفن همراه"
+
+#: includes/woocommerce-registration.php:545
+msgid "Mobile number verification failed!"
+msgstr "تأیید شماره تلفن تکمیل نشد!"
+
+#: includes/woocommerce-registration.php:569
+msgid "ERROR"
+msgstr "خطا"
+
+#: includes/woocommerce-registration.php:569
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr "نمیتوانید ثبت نام کینید! با ما تماس بگیرید."
+
+#: includes/woocommerce-registration.php:655
+msgid "Invalid country code!"
+msgstr "کد کشور نامعتبر است!"
+
+#: includes/woocommerce-registration.php:665
+msgid "Please enter Mobile Number!"
+msgstr "لطفا شماره تلفن را وارد کنید!"
+
+#: includes/woocommerce-registration.php:668
+msgid "Please enter country code!"
+msgstr "لطفا کد کشور را وارد کنید!"
+
+#: includes/woocommerce-registration.php:677
+msgid "Please enter OTP!"
+msgstr "لطفا کد تایید را وارد کنید!"
+
+#: includes/woocommerce-registration.php:690
+msgid "Invalid  Email!"
+msgstr "ایمیل نامعتبر!"
+
+#: includes/woocommerce-registration.php:1043
+msgid "*"
+msgstr "*"
+
+#: includes/woocommerce-registration.php:1163
+msgid "Register with OTP"
+msgstr "ثبت نام با کد تایید"
+
+#: includes/woocommerce-registration.php:1203
+msgid "Mobile Number is required!"
+msgstr "شماره تلفن مورد نیاز است!"
+
+#: includes/woocommerce-registration.php:1219
+msgid ""
+"Lost your password? Please enter your mobile number to receive OTP or email "
+"address to get a link to create a new password."
+msgstr ""
+"رمز عبور خود را فراموش کرده اید؟ لطفا شماره تلفن همراه خود را برای دریافت کد "
+"تایید یا آدرس ایمیل برای دریافت لینک برای ایجاد یک رمز جدید وارد کنید."
+
+#: includes/woocommerce-registration.php:1227
+msgid "Digits"
+msgstr "Digits فارسی"
+
+#: includes/woocommerce-registration.php:1283
+msgid "User"
+msgstr "کاربر"
+
+#: includes/woocommerce-registration.php:1298
+msgid "Digits Data Eraser"
+msgstr "پاک کننده داده های Digits"
+
+#: includes/woocommerce-registration.php:1333
+#: includes/woocommerce-registration.php:1346
+msgid "Removed"
+msgstr "حذف شده"
+
+#: update/Puc/v4p1/Plugin/UpdateChecker.php:358
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:395
+msgid "Check for updates"
+msgstr "بررسی برای به روز رسانی"
+
+#: update/Puc/v4p1/Plugin/UpdateChecker.php:405
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:548
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: update/Puc/v4p1/Plugin/UpdateChecker.php:409
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:557
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: update/Puc/v4p1/Plugin/UpdateChecker.php:412
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:555
+#, php-format
+msgctxt "the plugin title"
+msgid ""
+"A new version of the %s plugin is available. Please enter purchase code <a "
+"href=\"%s\">here</a> to enable automatic updates."
+msgstr ""
+
+#: update/Puc/v4p1/Plugin/UpdateChecker.php:416
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:567
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: update/Puc/v4p1/Vcs/PluginUpdateChecker.php:85
+#: update/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "هیچ تغییری در دسترس وجود ندارد."
+
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:432
+msgid "View details"
+msgstr "دیدن جزئیات"
+
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:455
+#, php-format
+msgid "More information about %s"
+msgstr "اطلاعات بیشتر در مورد %s"
+
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:561
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "نمی توان تعیین کرد که آیا به روزرسانی برای %s در دسترس است یا خیر"
+
+#. Plugin Name of the plugin/theme
+msgid "DIGITS: Wordpress Mobile Number Signup and Login"
+msgstr "افزونه ثبت نام و ورود با موبایل وردپرس"
+
+#. Plugin URI of the plugin/theme
+msgid "https://digits.unitedover.com"
+msgstr "https://ippanel.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Expand your website dimensions by providing signup and login using mobile "
+"number. User can register himself/herself with just a mobile number."
+msgstr "افزونه ثبت نام و ورود با موبایل"
+
+#. Author of the plugin/theme
+msgid "UnitedOver"
+msgstr "پشتیبان Digits فارسی"
+
+#. Author URI of the plugin/theme
+msgid "https://www.unitedover.com/"
+msgstr "https://ippanel.com"
+
+msgid "Service Sender"
+msgstr "خط ارسال کننده"
+
+msgid "Shop Name"
+msgstr "نام فروشگاه در انتهای پیامک"
+
+msgid "KaveNegar API"
+msgstr "کلید وب سرویس کاوه نگار"
+
+msgid "Fast Send"
+msgstr "ارسال سریع با قالب"
+
+msgid "Template Number"
+msgstr "شماره قالب"
+
+msgid "Variables"
+msgstr "متغیر ها"
+
+msgid "Sign Up Modal"
+msgstr "مدال ثبت نام"
+
+msgid "Login/Signup Page"
+msgstr "صفحه ثبت نام/ورود"
+
+msgid "Login/Signup Modal"
+msgstr "ثبت نام/ورود حالت مودال"
+
+msgid "Sign Up Page"
+msgstr "برگه ثبت نام"
